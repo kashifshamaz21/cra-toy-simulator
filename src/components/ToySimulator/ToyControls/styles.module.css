@@ -1,0 +1,45 @@
+.gameControlsContainer {
+  width: 100%;
+  margin-top: 30px;
+}
+
+.placeToy {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+.positionContainer {
+  display: flex;
+}
+
+.position {
+  display: flex;
+  margin-right: 5px;
+}
+.positionInput {
+  width: 30px;
+}
+
+.moveToyControls {
+  display: flex;
+  flex: 1;
+  flex-basis: content;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.label {
+  margin-right: 5px;
+}
+
+.ctaButton {
+  cursor: pointer;
+  width: 120px;
+}
+.reportButton {
+  width: 100%;
+  cursor: pointer;
+}

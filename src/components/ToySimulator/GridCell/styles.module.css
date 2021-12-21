@@ -1,0 +1,19 @@
+.cellContainer {
+  position: relative;
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  border: 1px solid gray;
+  border-radius: 4px;
+}
+
+.cellPosition {
+  position: absolute;
+  font-size: 8px;
+  bottom: 5px;
+  left: 5px;
+}

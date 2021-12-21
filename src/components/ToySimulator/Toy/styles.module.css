@@ -1,0 +1,19 @@
+.toyContent {
+  background-image: url('../../../images/space-ship.svg');
+  background-size: 25px 25px;
+  background-repeat: no-repeat;
+  height: 25px;
+  width: 25px;
+}
+
+.facingEast {
+  transform: rotate(90deg);
+}
+
+.facingSouth {
+  transform: rotate(180deg);
+}
+
+.facingWest {
+  transform: rotate(270deg);
+}
