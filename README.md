@@ -33,4 +33,5 @@ This app was bootstrapped with [Create React App](https://github.com/facebook/cr
 * Type Checking: Typescript
 * Styling: CSS modules
 * Unit tests: Jest, React testing library
+* Build: Webpack
 
