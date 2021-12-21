@@ -11,7 +11,7 @@ The origin (0,0) is considered to be the SOUTH WEST most corner.
 * PLACE action will place the toy on the Grid in position (X,Y) and facing NORTH, SOUTH, EAST or WEST.
 * MOVE action will move the toy robot one unit forward in the direction it is currently facing.
 * LEFT and RIGHT actions will rotate the robot 90 degrees in the specified direction without changing the position of the robot.
-* REPORT will display the X,Y position of the robot and the direction facing it is currently facing.
+* REPORT will display the X,Y position of the robot and the direction it is currently facing.
 
 ## Available Scripts
 
